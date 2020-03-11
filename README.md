@@ -23,3 +23,13 @@ i) symmetry
 j) fractal dimension ("coastline approximation" - 1)
 
 The null hypothesis states that there is no correlation between the successful diagnosis of a breast tumor and measurements of a breast cancer cell nuclei that is minimal in type II error.  In order to reject the null hypothesis, there not only needs to be correlation, but correlation that will not lead to missed diagnosis of a malignant tumor.
+
+
+
+Analysing the Data
+
+Before we begin analysis of predictive modeling, we will first look at each variable to gain insight into the data we are working with.
+
+First, lets look at the dependent variable, the diagnosis of malignant vs benign tumor.  This dataset contains 569 entries, which will be separated into a training set of 426 entries and a test set of 146 entries.  The following graphs represent data contained in the training set:
+
+
